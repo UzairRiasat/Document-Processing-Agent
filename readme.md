@@ -9,7 +9,7 @@ Supports both:
 ---
 
 # Live Demo
- https://your-app.onrender.com/docs
+ https://document-processing-agent.onrender.com/docs
 
 ---
 
@@ -43,7 +43,7 @@ Supports both:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/document-processing-agent.git
+git clone https://github.com/UzairRiasat/Document-Processing-Agent.git
 cd document-processing-agent
 ```
 
